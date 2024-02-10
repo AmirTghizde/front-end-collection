@@ -8,6 +8,7 @@ The Front End Collection repository is a compilation of my front-end projects bu
   - [Plan Viewer](#plan-viewer)
   - [Main Page](#main-page)
   - [Calculator](#calculator)
+  - [Key codes](#key-code)
 
 
 <h2>🎨 Projects:</h2>
@@ -37,6 +38,13 @@ The Front End Collection repository is a compilation of my front-end projects bu
    a beautifully designed calculator using css grid that sadly can't calculate anything but it can get user input and show them.<br><br>
 
    ![Example Image](images/calculator.png)
+
+   ----
+   
+   <h3 id="key-code">5.🔑 Key codes:</h3>
+   This project aims to identify the key you are pressing and display the corresponding key code along with other relevant values.
+
+   ![Example Image](images/key-code.png)
 
    ----
 
