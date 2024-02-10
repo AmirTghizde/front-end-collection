@@ -6,7 +6,7 @@ The Front End Collection repository is a compilation of my front-end projects bu
 
 Projects:
 
-1. Account Creation Forms:
+1. Account Creation Form:
    a set of beautifully designed account creation form. This form provides a seamless user experience, allowing users to input their information.
 
 2. Plan Viewer:
