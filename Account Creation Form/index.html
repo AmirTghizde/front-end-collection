@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Nunito+Sans&family=Oswald:wght@200&family=Poppins&family=Preahvihear&family=Roboto:wght@300&display=swap"
+    rel="stylesheet">
+  <title>Ex1</title>
+</head>
+
+<body>
+<div class="container">
+  <div class="heading">
+    <h1>Create Account</h1>
+    <h2>Already have an account? <a href="#">Sign in</a></h2>
+  </div>
+
+  <form id="form">
+    <input class="item" id="username" type="text" name="username" placeholder="Username" required>
+    <input class="item" id="email" type="email" name="email" placeholder="Email" required>
+    <input class="item" id="password" type="password" name="password" placeholder="Password" required>
+    <button class="item" type="submit">Signup</button>
+  </form>
+
+  <div class="footer">
+    <input type="checkbox" onclick="f(event)">
+    <p>I have read and agree to the <a href="#">terms and service</a></p>
+  </div>
+</div>
+<script src="script.js"></script>
+</body>
+
+</html>
