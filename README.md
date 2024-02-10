@@ -3,7 +3,7 @@
 
 The Front End Collection repository is a compilation of my front-end projects built using HTML and CSS. This collection showcases various interactive and visually appealing web components and applications.It also uses a bit of javascript to log the user's inputed info :3
 
- [Projects](#projects)
+
   - [Account Creation Form](#account-creation-form)
   - [Plan Viewer](#plan-viewer)
   - [Main Page](#main-page)
